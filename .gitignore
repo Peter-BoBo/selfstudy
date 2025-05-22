@@ -2,6 +2,13 @@
 data/
 dist/
 build/
+model/
+catanddog/
 *.json
 *.csv
 *.exe
+*.keras
+*.joblib
+*.jpg
+*.png
+*.Trash-0/
